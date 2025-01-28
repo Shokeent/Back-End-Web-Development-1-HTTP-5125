@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "j1FLbLKwXlY=",
+  "success": true,
+  "projectFilePath": "/Users/shokeen/My Drive/Humber Docs/Web Development/5125/Session 1/Assignment 0/WebApplication1/WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "/Users/shokeen/.nuget/packages/microsoft.aspnetcore.openapi/9.0.1/microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "/Users/shokeen/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
